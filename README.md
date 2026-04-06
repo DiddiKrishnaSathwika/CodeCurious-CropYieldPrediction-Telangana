@@ -42,3 +42,4 @@ This project predicts crop yield using crop type, district, weather, soil, and w
 4. Run:
    ```bash
    python train_model.py
+   https://codecurious-cropyieldprediction-telangana-dzrrluhsnkvwf7bbvkrd.streamlit.app/
